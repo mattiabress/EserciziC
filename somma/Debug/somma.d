@@ -1,0 +1,1 @@
+somma.o: ../somma.c
