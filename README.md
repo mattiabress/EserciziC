@@ -1,3 +1,3 @@
 # EserciziC
 esercizi C
-tutti esercizi fatti in classe
+tutti esercizi fatti in classe di C
